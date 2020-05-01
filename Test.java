@@ -15,7 +15,7 @@ public static int m2(int a,int b){
 int c=a-b;
 return c;
 }
-public static int void m1(int a , int b){
+public static int m1(int a , int b){
   int c=0;
   c=a+b;
   return c;
