@@ -7,7 +7,7 @@ System.out.println("The result of addition is : "+result);
 System.out.println("This is Scratch Project")
 System.out.println("Master Branch Code added New Functionality")
 }
-public static int void m1(int a , int b){
+public static int m1(int a , int b){
   int c=0;
   c=a+b;
   return c;
